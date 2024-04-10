@@ -1,0 +1,12 @@
+{
+  "name": "code-challenge-99tech",
+  "version": "1.0.0",
+  "description": "solve problem backend interview",
+  "main": "index.js",
+  "author": "Thong dino",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.4"
+  }
+}
